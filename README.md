@@ -7,5 +7,5 @@ The PPG Industry Talk 1 provided valuable exposure to real-world applications of
 The industrial talk could be improved by including more live demonstrations, such as real examples of SAP dashboards or data analytics used in manufacturing processes. In addition, providing a hands-on activity would help students better understand how technology solutions are implemented in real industrial settings. Overall, the talk broadened my perspective on technology careers in the manufacturing sector. It motivated me to enhance my technical knowledge and stay adaptable to emerging technologies, as these skills are essential in supporting innovation and efficiency in companies like PPG.
 
 # Poster
-[# PPG INDUSTRY TALK 1](https://github.com/nurzafreendaania/PPG-INDUSTRY-TALK-1/blob/a865d0f18b71ec7f53d0b346e27ec93b76d4d171/WhatsApp%20Image%202026-01-05%20at%2010.18.17%20AM.jpeg)
+![image alt](https://github.com/nurzafreendaania/PPG-INDUSTRY-TALK-1/blob/a865d0f18b71ec7f53d0b346e27ec93b76d4d171/WhatsApp%20Image%202026-01-05%20at%2010.18.17%20AM.jpeg)<br>
 
